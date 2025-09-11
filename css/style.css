@@ -136,7 +136,7 @@ header{
 .gale{
     color: var(--color-white);
     font-family: var(--font-title);
-    font-size: 4.25rem ;
+    font-size: 4rem ;
     margin: 6rem 1rem 1rem;
     display: grid;
     grid-template-columns: repeat(4, minmax(auto, 1fr));
@@ -420,7 +420,7 @@ footer i{
     /* GALLERY */
     .gale {
         grid-template-columns: 1fr;
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     .col-span {
         grid-column: span 1;
@@ -464,4 +464,5 @@ footer i{
     footer i {
         font-size: 1.2rem;
     }
+
 }
