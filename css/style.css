@@ -340,9 +340,12 @@ footer i{
         grid-template-rows: auto;
         font-size: 2.5rem;
     }
-    .gal-text{
-        justify-content: center;
+    .gal-text {
+        display: flex;
+        justify-content: center; 
+        align-items: center;    
         text-align: center;
+        grid-column: span 2;    
     }
     .col-span {
         grid-column: span 2;
@@ -484,6 +487,7 @@ footer i{
     }
 
 }
+
 
 
 
