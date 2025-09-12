@@ -131,6 +131,12 @@ header{
 }
 .memb-text li{
     list-style: none;
+    display: flex;
+    align-items: center;
+}
+.photo{
+    max-width: 2%;
+    border-radius: 100%;
 }
 /* ---------------------------------  GALE ---------------------------------  */
 .gale{
@@ -324,6 +330,9 @@ footer i{
     .memb-text {
         font-size: 1rem;
     }
+    .memb-text li{
+        justify-content: center;
+    }
 
     /* GALLERY */
     .gale {
@@ -417,6 +426,11 @@ footer i{
         font-size: 1rem;
     }
 
+    /* MEMB */
+    .photo{
+        max-width: 5%;
+    }
+
     /* GALLERY */
     .gale {
         grid-template-columns: 1fr;
@@ -466,3 +480,4 @@ footer i{
     }
 
 }
+
