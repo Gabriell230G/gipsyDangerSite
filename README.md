@@ -61,7 +61,7 @@ HTML • CSS • JavaScript • Font Awesome • Google Fonts
 
 ### 🔗 Acesse o Projeto
 
-https://gabriell230g.github.io/protegePlus/
+https://gabriell230g.github.io/gipsyDangerSite/
 
 ---
 
