@@ -72,4 +72,16 @@ https://gabriell230g.github.io/gipsyDangerSite/
 ➽ Expansão para uso educacional  
 ➽ Novas versões do robô com mais funcionalidades  
 
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-vasconcellos-gomes-76a246246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:gabriel.gomes0410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
